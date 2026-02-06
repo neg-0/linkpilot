@@ -24,7 +24,7 @@ export async function crawlSitemap(sitemapUrl: string): Promise<string[]> {
 
 export async function crawlPage(url: string, baseUrl: string): Promise<PageData> {
   const response = await fetch(url, {
-    headers: { 'User-Agent': 'LinkPilot/1.0 (SEO Analysis Bot)' }
+    headers: { 'User-Agent': 'LinkWeave/1.0 (SEO Analysis Bot)' }
   })
   const html = await response.text()
   const $ = cheerio.load(html)

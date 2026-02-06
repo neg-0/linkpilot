@@ -13,7 +13,7 @@ function SuccessContent() {
         <div className="text-6xl mb-6">🎉</div>
         <h1 className="text-3xl font-bold text-white mb-4">Payment Successful!</h1>
         <p className="text-slate-300 mb-6">
-          Thank you for subscribing to LinkPilot. You can now start analyzing your site.
+          Thank you for subscribing to LinkWeave. You can now start analyzing your site.
         </p>
         {sessionId && (
           <p className="text-slate-500 text-sm mb-6">

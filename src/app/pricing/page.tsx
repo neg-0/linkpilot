@@ -1,9 +1,6 @@
 'use client'
 
 import { useState } from 'react'
-import { loadStripe } from '@stripe/stripe-js'
-
-const stripePromise = loadStripe(process.env.NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY!)
 
 const tiers = [
   {
@@ -45,15 +42,15 @@ export default function PricingPage() {
         body: JSON.stringify({ priceId }),
       })
 
-      const { sessionId, error } = await response.json()
+      const { url, error } = await response.json()
 
       if (error) {
         throw new Error(error)
       }
 
-      const stripe = await stripePromise
-      if (stripe) {
-        await stripe.redirectToCheckout({ sessionId })
+      // Redirect to Stripe Checkout
+      if (url) {
+        window.location.href = url
       }
     } catch (err) {
       console.error('Checkout error:', err)

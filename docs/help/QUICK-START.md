@@ -1,4 +1,4 @@
-# LinkPilot Quick Start Guide
+# LinkWeave Quick Start Guide
 
 Get your first internal link suggestions in under 5 minutes.
 
@@ -17,11 +17,11 @@ Your sitemap is usually at one of these locations:
 
 ## Step 2: Paste & Analyze
 
-1. Go to [LinkPilot](/)
+1. Go to [LinkWeave](/)
 2. Paste your sitemap URL in the input field
 3. Click **Analyze Site**
 
-LinkPilot will:
+LinkWeave will:
 - Crawl your pages (up to 50 in free tier)
 - Extract content and existing links
 - Generate AI embeddings for semantic matching
@@ -73,4 +73,4 @@ Open in Google Sheets or Excel, then work through the list. Most sites can imple
 ## Need Help?
 
 - Check our [FAQ](/docs/faq)
-- Email: support@linkpilot.io
+- Email: support@linkweave.io

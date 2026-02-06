@@ -1,4 +1,4 @@
-# LinkPilot Launch Assets
+# LinkWeave Launch Assets
 
 ## Indie Hackers Post
 
@@ -12,7 +12,7 @@ Every new post should link to relevant old posts. Old posts should link back to 
 
 I tried LinkWhisper ($279/year, WordPress-only) and the suggestions were... not great. "Irrelevant" was the nicest word I'd use.
 
-So I built LinkPilot.
+So I built LinkWeave.
 
 **What it does:**
 - Paste your sitemap URL
@@ -28,7 +28,7 @@ So I built LinkPilot.
 
 I'm offering free site audits to the first 20 people who want to try it.
 
-Drop your site URL below and I'll run it through LinkPilot and share the results.
+Drop your site URL below and I'll run it through LinkWeave and share the results.
 
 Would love feedback on whether this solves a real problem for you.
 
@@ -61,7 +61,7 @@ Drop your sitemap URL or DM me.
 **Tweet 1:**
 I got tired of crappy internal linking suggestions, so I built my own tool.
 
-Introducing LinkPilot 🔗✈️
+Introducing LinkWeave 🔗✈️
 
 Here's what it does and why it's different 🧵
 
@@ -80,7 +80,7 @@ The suggestions? "Irrelevant" is being generous.
 It matches keywords, not meaning. So you get garbage links.
 
 **Tweet 4:**
-LinkPilot uses AI semantic matching.
+LinkWeave uses AI semantic matching.
 
 It actually understands what your content is about and suggests links that make sense.
 
@@ -100,7 +100,7 @@ These are pages with zero or few internal links pointing to them.
 
 They're basically invisible to Google's crawler.
 
-LinkPilot surfaces them so you can fix it.
+LinkWeave surfaces them so you can fix it.
 
 **Tweet 7:**
 Pricing: $19-99/mo based on site size.
@@ -124,7 +124,7 @@ Feedback welcome 🙏
 AI internal linking that actually works. Any platform.
 
 **Description (260 chars):**
-Paste your sitemap, get AI-powered internal link suggestions in minutes. Unlike competitors, LinkPilot uses semantic matching (not keywords) and works on any CMS. Find orphan pages, export to CSV, fix your linking in a weekend. From $19/mo.
+Paste your sitemap, get AI-powered internal link suggestions in minutes. Unlike competitors, LinkWeave uses semantic matching (not keywords) and works on any CMS. Find orphan pages, export to CSV, fix your linking in a weekend. From $19/mo.
 
 ---
 
@@ -136,10 +136,10 @@ Hey [Name],
 
 Love your content on [specific video/article]. Your breakdown of [specific topic] was super helpful.
 
-I built a tool called LinkPilot that automates internal linking using AI semantic matching. It's basically what LinkWhisper should be — actually relevant suggestions, works on any platform, and doesn't cost $279/year.
+I built a tool called LinkWeave that automates internal linking using AI semantic matching. It's basically what LinkWhisper should be — actually relevant suggestions, works on any platform, and doesn't cost $279/year.
 
 Would you be interested in:
-a) A free audit of your site (I'll run it through LinkPilot and share results)
+a) A free audit of your site (I'll run it through LinkWeave and share results)
 b) Early access to try it yourself
 c) A quick walkthrough for potential review content
 

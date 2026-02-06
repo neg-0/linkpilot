@@ -1,22 +1,22 @@
 import type { Metadata } from 'next'
 
-// SEO Metadata for LinkPilot
+// SEO Metadata for LinkWeave
 export const metadata: Metadata = {
-  title: 'LinkPilot: AI Internal Linking & Orphan Page Finder',
-  description: 'Boost SEO with LinkPilot, the AI-powered internal linking tool for small publishers. Get smart internal link suggestions & find orphan pages easily.',
+  title: 'LinkWeave: AI Internal Linking & Orphan Page Finder',
+  description: 'Boost SEO with LinkWeave, the AI-powered internal linking tool for small publishers. Get smart internal link suggestions & find orphan pages easily.',
   
   // Open Graph
   openGraph: {
-    title: 'LinkPilot: AI Internal Linking & Orphan Page Finder',
-    description: 'Boost SEO with LinkPilot, the AI-powered internal linking tool for small publishers. Get smart internal link suggestions & find orphan pages easily.',
-    url: 'https://linkpilot.io', // TODO: Update with actual domain
-    siteName: 'LinkPilot',
+    title: 'LinkWeave: AI Internal Linking & Orphan Page Finder',
+    description: 'Boost SEO with LinkWeave, the AI-powered internal linking tool for small publishers. Get smart internal link suggestions & find orphan pages easily.',
+    url: 'https://linkweave.io', // TODO: Update with actual domain
+    siteName: 'LinkWeave',
     images: [
       {
         url: '/og-image.png', // TODO: Create OG image
         width: 1200,
         height: 630,
-        alt: 'LinkPilot: AI-powered internal linking tool dashboard showing link suggestions',
+        alt: 'LinkWeave: AI-powered internal linking tool dashboard showing link suggestions',
       },
     ],
     locale: 'en_US',
@@ -26,8 +26,8 @@ export const metadata: Metadata = {
   // Twitter Card
   twitter: {
     card: 'summary_large_image',
-    title: 'LinkPilot: AI Internal Linking & Orphan Page Finder',
-    description: 'Boost SEO with LinkPilot, the AI-powered internal linking tool for small publishers. Get smart internal link suggestions & find orphan pages easily.',
+    title: 'LinkWeave: AI Internal Linking & Orphan Page Finder',
+    description: 'Boost SEO with LinkWeave, the AI-powered internal linking tool for small publishers. Get smart internal link suggestions & find orphan pages easily.',
     images: ['/twitter-image.png'], // TODO: Create Twitter image
   },
   
@@ -52,11 +52,11 @@ export const metadata: Metadata = {
 export const jsonLd = {
   '@context': 'https://schema.org',
   '@type': 'SoftwareApplication',
-  name: 'LinkPilot',
+  name: 'LinkWeave',
   applicationCategory: 'SEO Tool',
   operatingSystem: 'Web',
   description: 'AI-powered internal linking and orphan page finder for small publishers',
-  url: 'https://linkpilot.io', // TODO: Update
+  url: 'https://linkweave.io', // TODO: Update
   offers: {
     '@type': 'AggregateOffer',
     lowPrice: '19',

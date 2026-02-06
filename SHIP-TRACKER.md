@@ -1,11 +1,11 @@
-# LinkPilot - Ship Tracker
+# LinkWeave - Ship Tracker
 
 ## Mission
-Take LinkPilot from MVP to shipped product using AI agent swarm with minimal human intervention.
+Take LinkWeave from MVP to shipped product using AI agent swarm with minimal human intervention.
 
 ## Human Actions Required
-- [ ] **Domain** — Purchase linkpilot.io / linkpilot.app / getlinkpilot.com
-- [ ] **Vercel** — Connect GitHub repo neg-0/linkpilot
+- [ ] **Domain** — Purchase linkweave.io / linkweave.app / getlinkweave.com
+- [ ] **Vercel** — Connect GitHub repo neg-0/linkweave
 - [ ] **Stripe** — Create account, get API keys
 - [ ] **Social Posting** — Final approval + post from accounts
 - [ ] **First Customers** — Warm outreach to SEO contacts
@@ -43,10 +43,10 @@ Take LinkPilot from MVP to shipped product using AI agent swarm with minimal hum
 
 | Time | Agent | Task | Status |
 |------|-------|------|--------|
-| 05:54 | linkpilot-landing-copy | Landing page copy | 🔄 Running |
-| 05:54 | linkpilot-ui-polish | UI improvements | 🔄 Running |
-| 05:54 | linkpilot-seo-meta | SEO metadata | 🔄 Running |
-| 05:54 | linkpilot-launch-assets | Launch posts | 🔄 Running |
+| 05:54 | linkweave-landing-copy | Landing page copy | 🔄 Running |
+| 05:54 | linkweave-ui-polish | UI improvements | 🔄 Running |
+| 05:54 | linkweave-seo-meta | SEO metadata | 🔄 Running |
+| 05:54 | linkweave-launch-assets | Launch posts | 🔄 Running |
 
 ## Deployment Checklist
 - [ ] Build passes locally
@@ -65,6 +65,6 @@ Take LinkPilot from MVP to shipped product using AI agent swarm with minimal hum
 | Pro | 2000 | $99/mo | TBD |
 
 ## Links
-- **Repo:** https://github.com/neg-0/linkpilot
+- **Repo:** https://github.com/neg-0/linkweave
 - **Live:** TBD (pending Vercel deploy)
 - **Stripe:** TBD

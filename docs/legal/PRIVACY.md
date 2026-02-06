@@ -2,7 +2,7 @@
 
 **Last updated:** February 2026
 
-This Privacy Policy describes how LinkPilot ("we", "us", or "our") collects, uses, and shares your information when you use our website and services.
+This Privacy Policy describes how LinkWeave ("we", "us", or "our") collects, uses, and shares your information when you use our website and services.
 
 ---
 
@@ -29,7 +29,7 @@ When you analyze a website, we temporarily process:
 We automatically collect:
 - IP address
 - Browser type
-- Pages visited on LinkPilot
+- Pages visited on LinkWeave
 - Features used
 - Error logs
 
@@ -38,7 +38,7 @@ We automatically collect:
 ## How We Use Your Information
 
 We use collected information to:
-- Provide and improve LinkPilot services
+- Provide and improve LinkWeave services
 - Process payments
 - Send service-related emails
 - Respond to support requests
@@ -89,7 +89,7 @@ You have the right to:
 - Export your data
 - Opt out of marketing emails
 
-To exercise these rights, email privacy@linkpilot.io.
+To exercise these rights, email privacy@linkweave.io.
 
 ---
 
@@ -109,7 +109,7 @@ We may update this policy. Significant changes will be communicated via email.
 
 ## Contact
 
-Questions? Email privacy@linkpilot.io
+Questions? Email privacy@linkweave.io
 
 ---
 

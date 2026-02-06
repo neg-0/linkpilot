@@ -2,9 +2,9 @@
 
 **Last updated:** February 2026
 
-These Terms of Service ("Terms") govern your use of LinkPilot ("Service") operated by [Your Company] ("we", "us", or "our").
+These Terms of Service ("Terms") govern your use of LinkWeave ("Service") operated by [Your Company] ("we", "us", or "our").
 
-By using LinkPilot, you agree to these Terms. If you disagree, please don't use the Service.
+By using LinkWeave, you agree to these Terms. If you disagree, please don't use the Service.
 
 ---
 
@@ -36,7 +36,7 @@ By using LinkPilot, you agree to these Terms. If you disagree, please don't use 
 
 ### Refunds
 - 7-day money-back guarantee for new subscribers
-- Contact support@linkpilot.io for refund requests
+- Contact support@linkweave.io for refund requests
 
 ---
 
@@ -62,7 +62,7 @@ You agree NOT to:
 
 ## 5. Our Intellectual Property
 
-- LinkPilot, including code, design, and algorithms, is our property
+- LinkWeave, including code, design, and algorithms, is our property
 - You may not copy, modify, or reverse-engineer the Service
 - Suggestions generated are yours to use freely
 
@@ -113,7 +113,7 @@ These Terms are governed by the laws of [Your Jurisdiction].
 
 ## 11. Contact
 
-Questions? Email legal@linkpilot.io
+Questions? Email legal@linkweave.io
 
 ---
 

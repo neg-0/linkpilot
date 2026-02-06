@@ -1,11 +1,11 @@
-# LinkPilot 🔗✈️
+# LinkWeave 🔗✈️
 
 > AI-powered internal linking and content refresh planner for small publishers
 
 **Live:** Coming soon  
-**Repo:** [github.com/neg-0/linkpilot](https://github.com/neg-0/linkpilot)
+**Repo:** [github.com/neg-0/linkweave](https://github.com/neg-0/linkweave)
 
-## What is LinkPilot?
+## What is LinkWeave?
 
 Upload your sitemap → Get a prioritized internal link plan + content refresh checklist you can execute in a weekend.
 
@@ -33,8 +33,8 @@ Upload your sitemap → Get a prioritized internal link plan + content refresh c
 ## Quick Start
 
 ```bash
-git clone https://github.com/neg-0/linkpilot.git
-cd linkpilot
+git clone https://github.com/neg-0/linkweave.git
+cd linkweave
 npm install
 cp .env.example .env.local
 # Add your OpenAI API key

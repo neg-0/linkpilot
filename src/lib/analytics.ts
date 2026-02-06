@@ -9,7 +9,7 @@ type EventName =
   | 'Copy to Clipboard'
 
 interface EventProps {
-  [key: string]: string | number | boolean
+  [key: string]: string | number
 }
 
 export function trackEvent(event: EventName, props?: EventProps) {

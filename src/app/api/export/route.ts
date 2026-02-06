@@ -28,7 +28,7 @@ export async function POST(request: NextRequest) {
       return new NextResponse(csv, {
         headers: {
           'Content-Type': 'text/csv',
-          'Content-Disposition': 'attachment; filename="linkpilot-report.csv"',
+          'Content-Disposition': 'attachment; filename="linkweave-report.csv"',
         },
       })
     }

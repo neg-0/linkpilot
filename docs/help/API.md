@@ -1,6 +1,6 @@
-# LinkPilot API Documentation
+# LinkWeave API Documentation
 
-Base URL: `https://linkpilot.io/api`
+Base URL: `https://linkweave.io/api`
 
 ---
 
@@ -109,7 +109,7 @@ Returns a CSV file download.
 ## Example: Node.js
 
 ```javascript
-const response = await fetch('https://linkpilot.io/api/analyze', {
+const response = await fetch('https://linkweave.io/api/analyze', {
   method: 'POST',
   headers: {
     'Content-Type': 'application/json',
@@ -133,7 +133,7 @@ console.log(`Found ${data.suggestions.length} link opportunities`);
 import requests
 
 response = requests.post(
-    'https://linkpilot.io/api/analyze',
+    'https://linkweave.io/api/analyze',
     headers={
         'Authorization': 'Bearer YOUR_API_KEY',
         'Content-Type': 'application/json'
@@ -158,4 +158,4 @@ Subscribe to analysis completion events for async processing.
 
 ## Need Help?
 
-Email api-support@linkpilot.io for technical questions.
+Email api-support@linkweave.io for technical questions.

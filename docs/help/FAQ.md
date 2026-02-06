@@ -1,15 +1,15 @@
-# LinkPilot FAQ
+# LinkWeave FAQ
 
-Common questions about LinkPilot and internal linking.
+Common questions about LinkWeave and internal linking.
 
 ---
 
 ## General
 
-### What is LinkPilot?
-LinkPilot is an AI-powered tool that analyzes your website and suggests internal links between related pages. It uses semantic AI (not just keyword matching) to find genuinely relevant connections.
+### What is LinkWeave?
+LinkWeave is an AI-powered tool that analyzes your website and suggests internal links between related pages. It uses semantic AI (not just keyword matching) to find genuinely relevant connections.
 
-### How is LinkPilot different from LinkWhisper?
+### How is LinkWeave different from LinkWhisper?
 - **Platform agnostic**: Works on any website, not just WordPress
 - **AI semantic matching**: Understands meaning, not just keywords
 - **More affordable**: $19-99/mo vs $279/year
@@ -20,7 +20,7 @@ An orphan page has zero or very few internal links pointing to it. Search engine
 
 ---
 
-## Using LinkPilot
+## Using LinkWeave
 
 ### How do I find my sitemap URL?
 Check these common locations:
@@ -35,7 +35,7 @@ Most CMS platforms (WordPress, Webflow, etc.) generate sitemaps automatically.
 - 500 pages: ~5-10 minutes
 - 2000 pages: ~15-20 minutes
 
-### How often should I run LinkPilot?
+### How often should I run LinkWeave?
 We recommend:
 - **Monthly** for active blogs (5+ posts/month)
 - **Quarterly** for stable sites
@@ -48,10 +48,10 @@ Technically yes, but the suggestions are most useful when you can actually imple
 
 ## Technical
 
-### Does LinkPilot store my content?
+### Does LinkWeave store my content?
 We temporarily process your content to generate embeddings, then discard the raw text. We retain only the analysis results (URLs, suggestions) for your dashboard.
 
-### What AI model does LinkPilot use?
+### What AI model does LinkWeave use?
 We use Google's Gemini embedding model for semantic analysis. You can switch to OpenAI if preferred.
 
 ### Is there an API?
@@ -65,7 +65,7 @@ Yes! Pro plan includes API access. See our [API documentation](/docs/api).
 Yes. All plans are month-to-month with no contracts. Cancel from your account settings.
 
 ### Do you offer refunds?
-We offer a 7-day money-back guarantee. If LinkPilot doesn't work for you, email support@linkpilot.io.
+We offer a 7-day money-back guarantee. If LinkWeave doesn't work for you, email support@linkweave.io.
 
 ### What payment methods do you accept?
 We use Stripe for payments. Accepted: Visa, Mastercard, Amex, and most debit cards.
@@ -74,4 +74,4 @@ We use Stripe for payments. Accepted: Visa, Mastercard, Amex, and most debit car
 
 ## Still have questions?
 
-Email us at support@linkpilot.io — we typically respond within 24 hours.
+Email us at support@linkweave.io — we typically respond within 24 hours.
