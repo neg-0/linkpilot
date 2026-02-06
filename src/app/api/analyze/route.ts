@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server'
-import { crawlSite } from '@/lib/crawler'
-import { generateEmbeddings, getProviderInfo } from '@/lib/embeddings'
-import { analyzeLinks } from '@/lib/analyzer'
+import { crawlSite } from '../../../lib/crawler'
+import { generateEmbeddings, getProviderInfo } from '../../../lib/embeddings'
+import { analyzeLinks } from '../../../lib/analyzer'
 
 export async function POST(request: NextRequest) {
   try {
